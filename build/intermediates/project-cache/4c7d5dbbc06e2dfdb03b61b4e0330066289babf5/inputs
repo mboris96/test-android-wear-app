@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/mboris/personal/test-android-wear-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=f85b8565bbded17995214184694752e5a951d051
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
